@@ -1,3 +1,3 @@
 app:
-  welcomeMessage: "Hello from DEV orderservice config"
+  welcomeMessage: "Hello! from DEV orderservice config"
   featureXEnabled: true

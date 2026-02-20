@@ -2,4 +2,4 @@ server:
   port: 8081
 
 app:
-  welcomeMessage: "Hello from default orderservice config"
+  welcomeMessage: "Hello! from default orderservice config"
